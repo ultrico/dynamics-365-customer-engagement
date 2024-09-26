@@ -6,6 +6,7 @@ ms.custom:
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ---
 
 # View the accuracy and performance of predictive scoring models
@@ -108,7 +109,7 @@ If your model isn't ready to publish or isn't performing well, try the following
 
 [!INCLUDE[cant-find-option](../includes/cant-find-option.md)]
 
-### See also
+## Related information
 
 [Configure predictive lead scoring](configure-predictive-lead-scoring.md)  
 [Configure predictive opportunity scoring](configure-predictive-opportunity-scoring.md)

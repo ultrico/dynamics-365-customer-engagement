@@ -5,9 +5,9 @@ ms.date: 10/26/2021
 ms.topic: conceptual
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - dyn365-sales
-ms.reviewer: susikka
 ---
 # DeleteOQOILineWithSkipPricingCalculation custom action 
 
@@ -52,7 +52,7 @@ var deleteOQOILineWithSkipPricingCalculationRequest= new ODataContract.DeleteOQO
 
 ```
 
-### See also
+## Related information
 
 [msdyn_ForecastApi](msdyn_ForecastApi.md)
 

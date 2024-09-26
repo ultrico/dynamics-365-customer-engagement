@@ -5,6 +5,7 @@ ms.date: 02/27/2023
 ms.topic: article
 author: sbmjais
 ms.author: shjais
+ms.reviewer: shjais 
 ---
 
 # Set up the mobile experience for Dynamics 365 Sales
@@ -40,11 +41,11 @@ As an administrator, you can further refine the experience with the following cu
 - [Create custom push notifications](create-push-notification.md)  
 - [Configure tables for quick creation of records and activities](configure-quick-create.md)
 
-### See also
+## Related information
 
 [Use the Dynamics 365 Sales mobile app](use-sales-mobile-app.md)    
 [Learn the basics](learn-basics-mobile-app.md)  
-[Guidance on the best mobile experience for your sales users](https://community.dynamics.com/365/dynamics-365-fasttrack/b/dynamics-365-fasttrack-blog/posts/guidance-on-best-mobile-experience-for-your-sales-users)
+[Guidance on the best mobile experience for your sales users](https://community.dynamics.com/blogs/post/?postid=dfbc4692-5ec9-49cd-ac7a-21fa5fdfee35)
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -5,6 +5,7 @@ ms.date: 03/31/2023
 ms.topic: article
 author: sbmjais
 ms.author: shjais
+ms.reviewer: shjais 
 ---
 
 # Use Microsoft Teams chat in Sales Hub
@@ -169,7 +170,7 @@ To navigate to a related record from the connected chat, hover over the chat, se
 
 The selected record opens and the **Teams chats** pane is refreshed with the chats connected to the opened record.
 
-### See also
+## Related information
 
 [Enable or disable Microsoft Teams chat in Sales Hub](enable-teams-chat.md)   
 [Configure the ability to use suggested contacts](enable-contact-suggest.md)  

@@ -5,6 +5,7 @@ ms.date: 12/05/2022
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - "dyn365-sales"
 ---
@@ -55,7 +56,7 @@ You can only reactivate a standalone product. If a product has a parent, you'll 
 
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
 
-### See also  
+## Related information  
  [Set up a product catalog: Walkthrough](set-up-product-catalog-walkthrough.md)
 
 

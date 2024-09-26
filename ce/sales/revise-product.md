@@ -5,6 +5,7 @@ ms.date: 02/10/2021
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - "dyn365-sales"
 ---
@@ -54,7 +55,7 @@ Keep the product inventory updated by quickly revising properties for the produc
 
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
 
-### See also  
+## Related information  
  [Set up a product catalog: Walkthrough](set-up-product-catalog-walkthrough.md)
 
 

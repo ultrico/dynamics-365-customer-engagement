@@ -5,6 +5,7 @@ ms.date: 02/27/2023
 ms.topic: article
 author: sbmjais
 ms.author: shjais
+ms.reviewer: shjais 
 ---
 
 # Configure mobile apps with Microsoft Intune 
@@ -57,7 +58,7 @@ To understand how your end users can use the Dynamics 365 Sales mobile app on th
 - [Use managed apps on your iOS device](/intune-user-help/use-managed-apps-on-your-device-ios#how-do-i-get-managed-apps)
 - [Use managed apps on your Android device](/intune-user-help/use-managed-apps-on-your-device-android)
 
-### See also
+## Related information
 
 [How to create and assign app protection policies](/intune/app-protection-policies) 
 

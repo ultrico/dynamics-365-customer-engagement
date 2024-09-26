@@ -3,8 +3,10 @@ title: Enable Copilot email assist
 description: Enable Copilot email assist to generate personalized, high-quality emails tailored to specific needs.
 author: udaykirang
 ms.author: udag
-ms.reviewer: shujoshi
+ms.reviewer: udag
 ms.topic: how-to 
+search.app: salescopilot-docs
+ms.collection: bap-ai-copilot 
 ms.date: 07/28/2023
 ms.custom: bap-template 
 ---
@@ -17,7 +19,7 @@ The Copilot for email assist feature helps sellers to generate content for email
 
 > [!NOTE]
 > - Copilot email assist is supported only for lead and opportunity records through the Dynamics 365 email. For more information about email experience, see [Understand the email experience](/power-apps/user/view-create-email).
-> - Copilot email assist doesn’t require Microsoft Sales Copilot license.
+> - Copilot email assist doesn’t require Microsoft 365 Copilot for Sales license.
 
 ## License and role requirements
 
@@ -37,7 +39,7 @@ The Copilot for email assist feature helps sellers to generate content for email
 
 Copilot is enabled in your app and sellers can use the feature to compose emails. 
 
-### See also
+## Related information
 
 [Use Copilot for email messages](use-copilot-email.md)  
 [Compose and send email messages using Copilot](compose-send-email-copilot.md)

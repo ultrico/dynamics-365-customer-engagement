@@ -5,6 +5,7 @@ ms.date: 05/10/2022
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 searchScope: 
   - D365-App-msdynce_saleshub
   - D365-App-msdynce_salespro
@@ -89,7 +90,7 @@ Here are the actions you can take on the products in the Products grid:
 
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
 
-### See also  
+## Related information  
  [Create or edit a quote](../sales-enterprise/create-edit-quote-sales.md)  
  [Create or edit an order](../sales-enterprise/create-edit-order-sales.md)  
  [Create or edit an invoice](../sales-enterprise/create-edit-invoice-sales.md)  

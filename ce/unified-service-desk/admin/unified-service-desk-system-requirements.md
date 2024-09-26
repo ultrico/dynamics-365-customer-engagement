@@ -1,13 +1,11 @@
 ---
 title: "Unified Service Desk system requirements | MicrosoftDocs"
 description: "This topic lists the software and hardware requirements you need to install and use Unified Service Desk."
-ms.date: 05/30/2023
-ms.topic: get-started-article
+ms.date: 06/27/2024
+ms.topic: get-started
 author: gandhamm
 ms.author: mgandham
-ms.custom: 
-  - dyn365-USD
-  - dyn365-admin
+ms.custom: evergreen
 ---
 
 # System requirements
@@ -104,7 +102,7 @@ The supported versions of Unified Service Desk are 4.2, 4.1, and 4.0.
 
 > [!Note]
 >
-> - Because support for Internet Explorer 11 is deprecated, support for IE Process has also been discontinued in Unified Service Desk. More information: [Deprecation announcement](../../customer-service/deprecations-customer-service.md#internet-explorer-11-support-for-dynamics-365-and-microsoft-power-platform-is-deprecated)
+> - Because support for Internet Explorer 11 is deprecated, support for IE Process has also been discontinued in Unified Service Desk. More information: [Deprecation announcement](../../customer-service/implement/deprecations-customer-service.md#internet-explorer-11-support-for-dynamics-365-and-microsoft-power-platform-is-deprecated)
 >
 > - The support for hosting Unified Interface pages using Chrome Process (CefSharp) in Unified Service Desk 4.1.1.1397 and earlier versions is based on the Power Apps system requirements and limits. More information: [Supported browsers for running Power Apps](/power-apps/limits-and-config#supported-browsers-for-running-power-apps)
 

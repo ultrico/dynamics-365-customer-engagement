@@ -1,7 +1,7 @@
 ---
 title: Azure subscription prerequisites for Connected Field Service with IoT Hub
 description: Deploy Connected Field Service with Azure IoT Hub by reviewing prerequisites and assigning necessary Azure security roles.
-ms.date: 06/21/2023
+ms.date: 09/04/2024
 ms.subservice: connected-field-service
 ms.topic: conceptual
 ms.author: vhorvath
@@ -9,8 +9,9 @@ author: vhorvathms
 ms.custom: bap-template
 ---
 
-
 # Azure subscription prerequisites for Connected Field Service with IoT Hub
+
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 Before an administrator deploys Connected Field Service with Azure IoT Hub, review the prerequisites for your Azure subscription.
 
@@ -29,7 +30,7 @@ Before an administrator deploys Connected Field Service with Azure IoT Hub, revi
 
 1. Only work or school accounts can deploy Connected Field Service with Azure IoT Hub.
 
-1. Your user account needs permission to use the `CRM API Management Access` within the Azure Active Directory tenant.
+1. Your user account needs permission to use the `CRM API Management Access` within the Microsoft Entra tenant.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of CRM API access.](./media/cfs-azure-api-management.png)

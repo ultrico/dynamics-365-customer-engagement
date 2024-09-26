@@ -5,6 +5,7 @@ ms.date: 06/28/2023
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - dyn365-sales
 searchScope: 
@@ -184,11 +185,11 @@ When you select column **Type** as **Hierarchy related**, the column helps you p
 </td><td>
 
 > [!div class="nextstepaction"] 
-> [Next step: Apply additional filter](add-additional-filters.md)
+> [Next step: Configure and manage drill-down entities](configure-manage-drill-downs.md)
 </td></tr>
 </table>
 
-### See also
+## Related information
 
 [Configure forecasts in your organization](configure-forecast.md)<br>
 [View a forecast](view-forecasts.md)<br>

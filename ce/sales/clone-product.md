@@ -5,6 +5,7 @@ ms.date: 02/10/2021
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - "dyn365-sales"
 ---
@@ -53,7 +54,7 @@ When you're creating a new product, family or bundle, save time by cloning an ex
 
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
 
-### See Also  
+## Related information  
  [Create a product](create-product-sales.md)   
  
 

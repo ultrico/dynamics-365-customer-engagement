@@ -5,6 +5,7 @@ ms.date: 03/14/2023
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 searchScope: 
   - D365-App-msdynce_saleshub
   - D365-App-msdynce_salespro
@@ -197,7 +198,7 @@ To learn more about entity relationships, go to [Entity relationships](/powerapp
 <tr><td>
 
 > [!div class="nextstepaction"] 
-> [Previous step: Apply additional filters](add-additional-filters.md)
+> [Previous step: Choose layout and columns](choose-layout-and-columns-forecast.md)
 </td><td>
 
 > [!div class="nextstepaction"] 
@@ -206,7 +207,7 @@ To learn more about entity relationships, go to [Entity relationships](/powerapp
 </table>
 
 
-### See also
+## Related information
 
 [View and understand data through drill-down entities](view-understand-data-through-drill-down.md)
 

@@ -5,6 +5,7 @@ ms.date: 10/26/2021
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - "dyn365-sales"
 searchScope: 
@@ -87,7 +88,7 @@ Motivate customers to buy more by offering them discounts on bulk purchases. To 
  
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
  
-### See also  
+## Related information  
  [System Settings dialog box - Sales tab](/power-platform/admin/system-settings-dialog-box-sales-tab)
 
 

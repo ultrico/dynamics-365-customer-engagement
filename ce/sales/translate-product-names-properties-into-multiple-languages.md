@@ -5,6 +5,7 @@ ms.date: 10/26/2021
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - dyn365-sales
 ---
@@ -94,7 +95,7 @@ Translate all the relevant information like cross-sell or upsell suggestions, or
 
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
   
-### See also  
+## Related information  
  [Set up a product catalog: Walkthrough](set-up-product-catalog-walkthrough.md)   
  [Set up duplicate detection rules to keep your data clean](/power-platform/admin/set-up-duplicate-detection-rules-keep-data-clean)
 

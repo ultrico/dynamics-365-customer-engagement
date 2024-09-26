@@ -6,6 +6,7 @@ ms.custom:
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ---
 
 # Data retention and deletion policy for conversation intelligence (Sales app)
@@ -22,8 +23,7 @@ When you configure conversation intelligence, sales call recordings of sellers a
 
 ## Configure Call recording storage, Data consent and privacy
 
-1.    Review the prerequisites. To learn more, see [Prerequisites to configure conversation intelligence](prereq-sales-insights-app.md).   
-2. Go to **Change area** in the lower-left corner of the page and select **Sales Insights settings**.  
+1. Go to **Change area** in the lower-left corner of the page and select **Sales Insights settings**.  
     > [!div class="mx-imgBorder"]
     > ![Select Sales Insights settings](media/si-admin-change-area-sales-insights-settings.png "Select Sales Insights settings")  
 3.    In the configuration page, under **Productivity**, select **Conversation intelligence**.  
@@ -63,10 +63,10 @@ Choose the storage option as described in the following table:
 
 [!INCLUDE[cant-find-option](../includes/cant-find-option.md)] 
 
-### See also
+## Related information
 
 [Introduction to administer conversation intelligence](intro-admin-guide-sales-insights.md#administer-conversation-intelligence)  
-[Prerequisites to use conversation intelligence](prereq-sales-insights-app.md)  
+[Set up conversation intelligence in Sales Hub app](fre-setup-ci-sales-app.md)  
 [Dynamics 365 Sales and privacy laws and regulations](dynamics-365-sales-privacy.md)  
 [Sales Insights and privacy laws](embedded-intelligence-privacy.md)  
 

@@ -5,6 +5,7 @@ ms.date: 05/10/2022
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - "dyn365-sales"
 searchScope: 
@@ -52,7 +53,7 @@ When you change the parent of a product, inherited properties from the previous 
 
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
 
-### See also
+## Related information
 
 [Set up products (Sales and Sales Hub)](create-product-sales.md)  
 [Set up a product family (Sales and Sales Hub)](create-product-family.md)   

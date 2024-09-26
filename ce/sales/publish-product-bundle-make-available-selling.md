@@ -5,6 +5,7 @@ ms.date: 10/26/2021
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - "dyn365-sales"
 ---
@@ -56,7 +57,7 @@ By default, product records are created in a draft state, and are available to y
   
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
 
-### See also  
+## Related information  
  [Set up a product catalog: Walkthrough](set-up-product-catalog-walkthrough.md)
 
 

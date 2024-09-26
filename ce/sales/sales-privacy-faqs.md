@@ -1,10 +1,11 @@
 ---
-title: Frequently asked questions on privacy and security
+title: Privacy and security FAQs
 description: Find a list of frequently asked questions that are related to privacy and security in Dynamics 365 Sales.
 ms.date: 07/31/2023
 ms.topic: article
 author: udaykirang
 ms.author: udag
+ms.reviewer: udag
 ---
 
 # Privacy and security FAQs
@@ -36,7 +37,7 @@ Yes, the Dynamics 365 Sales data can be encrypted using CMK. For more informatio
 Most of the Dynamics 365 Sales features fully support Customer Lockbox, except for conversation intelligence. 
 
 
-### See also
+## Related information
 
 [Dynamics 365 Sales and privacy laws and regulations](dynamics-365-sales-privacy.md)  
 [Sales Insights and privacy laws](embedded-intelligence-privacy.md)  

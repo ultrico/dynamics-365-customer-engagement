@@ -7,7 +7,7 @@ ms.topic: article
 ms.assetid: 1b7a3dda-59c9-4b5d-b4b2-7fbc039a3f22
 author: udaykirang
 ms.author: udag
-ms.reviewer: 
+ms.reviewer: udag
 ms.suite: 
 ms.tgt_pltfrm: 
 ---
@@ -340,7 +340,7 @@ To learn more on how to enable cards, see [Turn on or off insights cards](edit-i
 
 [!INCLUDE[cant-find-option](../includes/cant-find-option.md)]
 
-### See also
+## Related information
 
 [Create custom cards in Assistant](extend-relationship-assistant-card.md)
 

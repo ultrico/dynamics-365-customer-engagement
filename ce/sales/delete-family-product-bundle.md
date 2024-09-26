@@ -5,6 +5,7 @@ ms.date: 02/28/2023
 ms.topic: article
 author: lavanyakr01
 ms.author: lavanyakr
+ms.reviewer: lavanyakr
 ms.custom: 
   - "dyn365-sales"
 ---
@@ -47,7 +48,7 @@ To stop selling a product, bundle, or family, delete it. If you delete a parent 
 
 [!INCLUDE [cant-find-option](../includes/cant-find-option.md)]
 
-### See also  
+## Related information  
  [Set up a product catalog: Walkthrough](../sales-enterprise/set-up-product-catalog-walkthrough.md)   
  [Create a product family](../sales-enterprise/create-product-family.md)
 
